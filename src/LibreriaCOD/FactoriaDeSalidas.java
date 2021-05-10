@@ -1,4 +1,4 @@
-package com.PabloLagoPro.bol21;
+package LibreriaCOD;
 
 public class FactoriaDeSalidas {
     public static final int CONSOLA = 1;

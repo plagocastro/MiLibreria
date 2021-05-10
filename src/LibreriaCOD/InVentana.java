@@ -1,4 +1,4 @@
-package com.PabloLagoPro.bol21;
+package LibreriaCOD;
 
 
 import javax.swing.*;
